@@ -1,0 +1,45 @@
+.important {
+  color: green;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: green;
+  font-size: 300px;
+  font-style: oblique;
+}
+
+body {
+  background-color: red;
+}
+
+h2.intro {
+  color: green;
+  font-size: 100px;
+  font-style: oblique;
+}
+
+p.intro {
+  color: blue;
+  font-style: italic;
+
+}
+
+img.intro {
+  border: 200px;
+  border-color: green;
+}
+
+.container4 {
+   margin: auto;
+   max-width:1175px;
+   padding-left: 15px;
+   padding-right: 15px;
+   background-color: #EF5DBA;
+   border: 5px solid #ccc;
+   border-radius: 4px;
+   }
